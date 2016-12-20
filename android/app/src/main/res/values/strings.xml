@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WixReactNativeContainer</string>
+    <string name="gcmSenderId"></string>
+    <string name="facebookAppId"></string>
+
+    <string name="notificationsFallbackTitle">Wix</string>
+    <string name="notificationsAggrTitle">%d New Notifications</string>
+    <string name="notificationsAggrSubtext">Wix</string>
+</resources>

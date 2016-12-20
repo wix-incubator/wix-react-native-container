@@ -1,0 +1,9 @@
+
+ dependencies {
+    compile project(':videoview')
+    compile project(':rncamerakit')
+    compile project(':react-native-webview-bridge')
+    compile project(':react-native-navigation')
+    compile project(':react-native-swipe-view')
+    compile project(':nativewixlogin')
+}

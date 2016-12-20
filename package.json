@@ -1,0 +1,31 @@
+{
+  "name": "wix-react-native-container",
+  "version": "0.0.1",
+  "private": true,
+  "license": "SEE LICENSE IN LICENSE",
+  "scripts": {
+    "start": "react-native start",
+    "test": ":",
+    "xcode": "open ./ios/WixReactNativeContainer.xcodeproj",
+    "studio": "open -a /Applications/Android\\ Studio.app ./android"
+  },
+  "dependencies": {
+    "react": "15.2.1",
+    "react-native": "^0.31.0",
+    "react-native-navigation": "2.0.0-experimental.134",
+    "react-native-action-view": "^1.0.3",
+    "react-native-autogrow-textinput": "^2.1.1",
+    "react-native-camera-kit": "^3.0.4",
+    "react-native-custom-segmented-control": "^3.0.4",
+    "react-native-keyboard-aware-scrollview": "^1.1.3",
+    "react-native-keyboard-tracking-view": "^2.0.2",
+    "react-native-notifications": "^1.0.2",
+    "react-native-open-file": "^1.0.5",
+    "react-native-swipe-view": "^2.0.6",
+    "react-native-zss-rich-text-editor": "^1.0.0",
+    "react-native-webview-bridge-updated": "^1.0.7"
+  },
+  "devDependencies": {
+    "babel-preset-react-native": "1.9.0"
+  }
+}

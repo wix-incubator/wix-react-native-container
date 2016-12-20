@@ -1,0 +1,6 @@
+
+ rootProject.name = 'WixReactNativeContainer'
+
+apply from: 'android_dependencies_settings.gradle'
+
+include ':app'

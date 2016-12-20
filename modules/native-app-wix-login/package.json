@@ -1,0 +1,12 @@
+{
+  "name": "native-app-wix-login",
+  "version": "2.2.57",
+  "publishConfig": {
+    "registry": ""
+  },
+  "main": "index.js",
+  "dependencies": {
+    "query-string": "^3.0.0",
+    "react-native-linear-gradient": "^1.5.7"
+  }
+}

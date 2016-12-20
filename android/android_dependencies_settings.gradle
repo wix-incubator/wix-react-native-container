@@ -1,0 +1,18 @@
+
+include ':react-native-navigation'
+project(':react-native-navigation').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-navigation/android/app/')
+
+include ':videoview'
+project(':videoview').projectDir = new File(rootProject.projectDir, './modules/VideoView')
+
+include ':rncamerakit'
+project(':rncamerakit').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-camera-kit/android/')
+
+include ':react-native-webview-bridge'
+project(':react-native-webview-bridge').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-webview-bridge-updated/android')
+
+include ':react-native-swipe-view'
+project(':react-native-swipe-view').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-swipe-view/android')
+
+include ':nativewixlogin'
+project(':nativewixlogin').projectDir = new File(rootProject.projectDir, '../modules/native-app-wix-login/android')
